@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApplications.sample15</StartupObject>
+    <StartupObject>ConsoleApplications.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
