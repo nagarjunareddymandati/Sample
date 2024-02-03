@@ -57,6 +57,7 @@
     <Compile Include="sample14.cs" />
     <Compile Include="sample15.cs" />
     <Compile Include="sample16.cs" />
+    <Compile Include="sample17.cs" />
     <Compile Include="sample2.cs" />
     <Compile Include="sample3.cs" />
     <Compile Include="sample4.cs" />
